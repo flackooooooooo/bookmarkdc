@@ -1,6 +1,6 @@
 # Discord Bookmarklet
 
-Created By viloid (github.com/vsec7)
+ (github.com/flackooooooooo)
 
 *** NOTE : USE AT YOUR OWN RISK! ***
 
@@ -13,7 +13,7 @@ javascript:(()=>{var t=document.body.appendChild(document.createElement`iframe`)
 ## Login With Selfbot Discord Token
 ![LOGIN](https://i.ibb.co/0QTr1Gm/bookmarklet2.jpg)
 ```
-javascript:(()=>{var t=prompt('Login With Discord Token by github.com/vsec7', 'INPUT YOUR TOKEN HERE');document.body.appendChild(document.createElement`iframe`).contentWindow.localStorage.token=`"${t}"`;location.href='/channels/@me'})();
+javascript:(()=>{var t=prompt('Login With Discord Token by github.com/flackooooooooo', 'INPUT YOUR TOKEN HERE');document.body.appendChild(document.createElement`iframe`).contentWindow.localStorage.token=`"${t}"`;location.href='/channels/@me'})();
 ```
 
 # How to Use ?
@@ -22,14 +22,7 @@ javascript:(()=>{var t=prompt('Login With Discord Token by github.com/vsec7', 'I
 - Open discord.com
 - Click Bookmarklet
 
-> Use Selfbot token for [Auto Chat Bot](https://github.com/vsec7/DiscordSelfbot)
-
-> Use for Switch Discord Account Login with same browser
-
-** Dont logout your account, because it can regenerate new token. Just switch with another token **
 
 ## • Donate
 
-SOL Address : viloid.sol
-
-BSC Address : 0xd3de361b186cc2Fc0C77764E30103F104a6d6D07
+ETH Address : 0x7adda19B0e43396A8c1E7A963F45B552632E812B
